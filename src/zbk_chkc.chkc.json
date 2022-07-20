@@ -3,5 +3,6 @@
   "header": {
     "description": "Category",
     "originalLanguage": "en"
-  }
+  },
+  "parentCategory": "CHCK_KTD"
 }
