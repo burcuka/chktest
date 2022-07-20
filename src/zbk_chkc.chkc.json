@@ -1,7 +1,8 @@
 {
   "formatVersion": "1",
   "header": {
-    "description": "",
+    "description": "Category",
     "originalLanguage": "en"
-  }
+  },
+  "parentCategory": "AFF_EXAMPLE_CHKC"
 }
