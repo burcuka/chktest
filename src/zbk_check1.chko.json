@@ -1,0 +1,19 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "ATC Check",
+    "originalLanguage": "en"
+  },
+  "category": "CI_CDS",
+  "implementingClass": "ZCL_BK_ATC_CHECK",
+  "parameters": [
+    {
+      "name": "CheckMoves",
+      "hidden": true
+    },
+    {
+      "name": "CheckComputes",
+      "hidden": true
+    }
+  ]
+}
