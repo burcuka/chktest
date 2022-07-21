@@ -2,7 +2,8 @@
   "formatVersion": "1",
   "header": {
     "description": "Category",
-    "originalLanguage": "en"
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
   },
-  "parentCategory": "TEST"
+  "parentCategory": "CHKC_KTD"
 }
