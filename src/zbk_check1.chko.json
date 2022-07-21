@@ -9,7 +9,7 @@
   "parameters": [
     {
       "name": "CheckMoves",
-      "description": "test descriütion check moves"
+      "description": "test descriütion check moves 1"
     },
     {
       "name": "CheckComputes",
