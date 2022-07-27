@@ -9,11 +9,11 @@
   "parameters": [
     {
       "name": "CheckMoves",
-      "description": "test descriütion check moves 2"
+      "description": "test descriütion check moves 1",
+      "hidden": true
     },
     {
-      "name": "CheckComputes",
-      "hidden": true
+      "name": "CheckComputes"
     }
   ]
 }
