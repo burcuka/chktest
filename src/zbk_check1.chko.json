@@ -2,19 +2,15 @@
   "formatVersion": "1",
   "header": {
     "description": "ATC Check",
-    "originalLanguage": "en"
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
   },
   "category": "CI_CDS",
   "implementingClass": "ZCL_BK_ATC_CHECK",
   "parameters": [
     {
       "name": "CheckMoves",
-      "description": "test descriütion check moves 1",
-      "hidden": true
-    },
-    {
-      "name": "CheckComputes",
-       "description": "neue description"
+      "description": "test descriütion check moves 1"
     }
   ]
 }
