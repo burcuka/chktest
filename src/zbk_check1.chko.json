@@ -10,7 +10,12 @@
   "parameters": [
     {
       "name": "CheckMoves",
-      "description": "test descriütion check moves 1"
+      "description": "test",
+      "hidden": true
+    },
+    {
+      "name": "CheckComputes",
+      "hidden": true
     }
   ]
 }
