@@ -9,12 +9,8 @@
   "implementingClass": "ZCL_BK_ATC_CHECK",
   "parameters": [
     {
-      "name": "CheckMoves",
-      "description": "test 3",
-      "hidden": true
-    },
-    {
       "name": "CheckComputes",
+      "description" : "description test",
       "hidden": true
     }
   ]
