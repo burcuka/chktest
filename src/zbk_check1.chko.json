@@ -8,15 +8,13 @@
   "category": "CI_CDS",
   "implementingClass": "ZCL_BK_ATC_CHECK",
   "parameters": [
-     {
+    {
       "name": "CheckMoves",
-      "description" : "moves test",
-      "hidden": true
+      "description": "moves test"
     },
     {
       "name": "CheckComputes",
-      "description" : "computes test",
-      "hidden": true
+      "description": "computes test"
     }
   ]
 }
